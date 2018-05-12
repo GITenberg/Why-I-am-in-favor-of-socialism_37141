@@ -10,6 +10,8 @@ covers:
 - cover_type: archival
   image_path: 37141-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37141#Why-I-am-in-favor-of-socialism
 gutenberg_issued: '2011-08-21'
 gutenberg_type: Text
 identifiers:
